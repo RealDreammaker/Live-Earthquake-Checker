@@ -26,6 +26,11 @@
        
 - - -
 
+## To run my webpage
+1. Fork this repository to local server
+2. Create an API key from [mapbox](https://account.mapbox.com/auth/signup/?route-to=%22https://account.mapbox.com/%22)
+3. Enter your API_KEY to [config.js](./config.js) file
+
 
 
    
