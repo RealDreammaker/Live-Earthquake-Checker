@@ -1,4 +1,4 @@
-# The Quest: Visualising Earthquake Data with Leaflet
+# The Quest: Visualising LIVE Earthquake Data with Leaflet
 
    I created a web page that pulls data from the [USGS website](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) for visualisation.
    
@@ -30,6 +30,7 @@
 1. Fork this repository to local server
 2. Create an API key from [mapbox](https://account.mapbox.com/auth/signup/?route-to=%22https://account.mapbox.com/%22)
 3. Enter your API_KEY to [config.js](./config.js) file
+4. Run index.html in live server or in Terminal, run `python -m http.server`
 
 
 
