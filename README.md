@@ -6,7 +6,7 @@
 
 ![1-Logo](Images/satelite.png)
 
-## Tasks completed
+##  The completed tasks
 - - -
    All of the earthquakes data was plotted on the map based on their longitude and latitude.
 
