@@ -8,7 +8,7 @@
 
 ##  The completed tasks
 - - -
-   All of the earthquakes data was plotted on the map based on their longitude and latitude.
+   Earthquake data was plotted on the map based on their longitude and latitude.
 
    * Data markers reflect the magnitude of the earthquake in their size and colour
 
