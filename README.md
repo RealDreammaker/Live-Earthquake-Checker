@@ -3,7 +3,7 @@
    
    I created a web page that pulls data from the [USGS website](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) for visualisation.
    
-   The USGS website provides earthquake data in geoJSON formats, updated every 5 minutes. I used API endpoint for past 7 days to pull in the data and plotted earthquake data as markers on the map based on their longitude and latitude: 
+   The USGS website provides earthquake data in geoJSON formats, updated every 5 minutes. I used API endpoint for past 7 days to pull in the data and plotted earthquake data as markers on the map based on their longitude and latitude: </br>
    
 ![1-Logo](Images/Leaflet.gif)
 
@@ -19,7 +19,12 @@ I used Leaflet and D3 to create [this web page](https://realdreammaker.github.io
    * When the satellite map layer is selected:
       1. A layer that includes countries' name and boundary will show on the map.
       2. Markers will change in style/behaviour accordingly</br>
-       
+
+![1-Logo](Images/satelite.png)</br>
+
+![image](https://user-images.githubusercontent.com/89946428/171995247-1a6535d7-bfda-4f71-9b11-83f99607122a.png)</br>
+
+![image](https://user-images.githubusercontent.com/89946428/171995285-0329e8a7-cbde-4239-8071-008cad5c069f.png)</br>       
 - - -
 
 ## To run my webpage
