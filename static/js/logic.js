@@ -147,7 +147,8 @@ function createMap(response){
               `<h3>Magnitute: ${properties.mag}</h3><hr>
               <b>${properties.place}</b><br>
               Time: ${new Date(properties.time)}<br>
-              Lat: ${coordinates[1]}  Long: ${coordinates[0]}`
+              Lat: ${coordinates[1]}  Long: ${coordinates[0]}
+              Radius: ${properties.mag * 15000 + 25000}`
             )
             // create event handling when mouse hover over the marker
           .on({
